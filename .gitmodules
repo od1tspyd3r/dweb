@@ -1,0 +1,15 @@
+[submodule "php-malware-scanner"]
+	path = php-malware-scanner
+	url = https://github.com/scr34m/php-malware-scanner.git
+[submodule "wpscan"]
+	path = wpscan
+	url = https://github.com/od1tspyd3r/wpscan.git
+[submodule "WPSeku"]
+	path = WPSeku
+	url = https://github.com/od1tspyd3r/WPSeku.git
+[submodule "PHP-Shell-Detector"]
+	path = PHP-Shell-Detector
+	url = https://github.com/emposha/PHP-Shell-Detector.git
+[submodule "CMSmap"]
+	path = CMSmap
+	url = https://github.com/Dionach/CMSmap.git
