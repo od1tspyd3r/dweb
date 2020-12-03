@@ -1,2 +1,9 @@
 [submodule "WPSeku"]
 	url = https://github.com/wpscanteam/wpscan.git
+[submodule "php-malware-scanner"]
+	url = https://github.com/scr34m/php-malware-scanner.git
+[submodule "wpscan"]
+	url = https://github.com/wpscanteam/wpscan.git
+[submodule "PHP-Shell-Detector"]
+	path = PHP-Shell-Detector
+	url = https://github.com/emposha/PHP-Shell-Detector.git
